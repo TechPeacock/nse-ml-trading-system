@@ -42,7 +42,7 @@ Download these 5 files from NSE after market close (3:30 PM):
 2. **Delivery Data**: https://www.nseindia.com/report-detail/eq_security
    - Save to: `data/raw/delivery/`
    
-3. **FII/DII Data**: https://www.nseindia.com/reports-indices-reports
+3. **FII/DII Data**: https://www.nseindia.com/reports/fii-dii
    - Save to: `data/raw/fii_dii/`
    
 4. **Participant OI**: https://www.nseindia.com/reports-derivatives
