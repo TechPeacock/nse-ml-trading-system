@@ -1,0 +1,46 @@
+NSE - https://www.nseindia.com/all-reports
+
+Folder:
+
+data/raw/
+├── bhav/
+│   └── BhavCopy_NSE_CM_0_0_0_20251024_F_0000.csv.zip
+├── delivery/
+│   └── MTO_24102025.DAT
+├── fii_dii/
+│   ├── fii_24Oct2025.csv       
+│   └── dii_24Oct2025.csv        
+├── participant_wise/
+│   └── fao_participant_oi_24OCT2025.csv    
+└── bulk_block/
+    ├── bulk.csv
+    └── block.csv
+
+--------------------------------------------
+1. Bhavcopy (OHLCV Data)
+Search - CM-UDiFF Common Bhavcopy Final
+
+
+2. Delivery Data
+Serach - Security-Wise Delivery Positions
+
+Download: This file per day
+
+3. FII/DII Data
+Look for:
+
+"CM - VaR Margin Rates" files (multiple intra-day versions)
+OR navigate to Archives → FII/DII Activity
+
+Note: The VaR Margin files shown are NOT FII/DII data. You need to find the actual FII/DII section.
+
+4. Participant OI
+
+Find "F&O-Participant wise Open Interest"
+
+
+5. Bulk/Block Deals
+Look for:
+
+"CM - Market Activity Report" (contains bulk deals)
+OR specific Bulk Deals and Block Deals links
